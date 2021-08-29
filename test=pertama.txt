@@ -1,0 +1,4 @@
+Percobaan Test Pertama
+- sedang mengikuti tutorial
+- public class TestPertama
+      public static void main(String[] args)
